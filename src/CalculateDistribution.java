@@ -58,6 +58,8 @@ public class CalculateDistribution
 	private CurrencyAmounts makeChange(Double difference) {
 		CurrencyAmounts tempCA = new CurrencyAmounts();
 		
+		return tempCA;
+		
 	}
 	
 	
